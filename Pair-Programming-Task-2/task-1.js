@@ -36,5 +36,5 @@ const checkPassword = (password) => {
 	}
 };
 
-//console.log(checkPassword("password"));
-console.log(checkPassword("Sputnikkkkkkk12"));
+console.log(checkPassword("password"));
+console.log(checkPassword("Sputnik999!"));
